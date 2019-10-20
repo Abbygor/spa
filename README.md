@@ -14,3 +14,5 @@ In this application uses:
 - Pipes
 - Heroes Searching Field
 - @Input and @Output functions
+
+by: Luis Antonio Feregrino
